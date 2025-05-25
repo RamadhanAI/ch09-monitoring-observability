@@ -46,3 +46,13 @@ SLACK_WEBHOOK
 Modify S3 paths or simulate logs locally.
 Enable GitHub Actions for automatic drift detection.
 🧪 Example Usage
+
+python scripts/log_features.py
+python scripts/drift_detector.py
+python scripts/alerts.py
+📊 Real-World Application
+
+Used for post-deployment monitoring in fraud detection, insurance claims, and retail forecast systems.
+
+📘 From Production-Grade AI Systems, Chapter 9
+✍🏽 Written by @RamadhanAI
